@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/fahmi/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/fahmi/Playground/Application/react-native/pushnotification/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_3c199650651573222e7a4a46015f4dc73754d86a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fahmi/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/fahmi/Playground/Application/react-native/pushnotification/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_38ef4f090a3977613b04dfed4de11c80fff98b89.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fahmi/Playground/Application/react-native/pushnotification/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.53.0/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/fahmi/Playground/Application/react-native/pushnotification/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_67d89302d4008f415dd20916d94805c40988b0c9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fahmi/Playground/Application/react-native/pushnotification/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/fahmi/Playground/Application/react-native/pushnotification/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.2.0_ca8d2c26969b8cc4580e0fb814258121f92a7cb7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fahmi/Playground/Application/react-native/pushnotification/android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/Users/fahmi/Playground/Application/react-native/pushnotification/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.2.0_a09dc8bc3a2d4db217c73f1cb57054c15f4dd30b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fahmi/Playground/Application/react-native/pushnotification/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/Users/fahmi/Playground/Application/react-native/pushnotification/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_48f3640d760612c9cf09fff0cf1cde9c1c68aa9d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fahmi/Playground/Application/react-native/pushnotification/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/Users/fahmi/Playground/Application/react-native/pushnotification/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_0d1bb5cf1ba4093000a0cb8a302799b9b0390181.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fahmi/Playground/Application/react-native/pushnotification/android/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/Users/fahmi/Playground/Application/react-native/pushnotification/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.2.0_a6c2c79535b388009a273c7b5a77787693811659.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fahmi/Playground/Application/react-native/pushnotification/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
+        <dex dex="/Users/fahmi/Playground/Application/react-native/pushnotification/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-11.0.4_e8e8d014776e6a17aff86ec4d55aede0787295c0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fahmi/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="/Users/fahmi/Playground/Application/react-native/pushnotification/android/app/build/intermediates/pre-dexed/debug/support-annotations-25.2.0_820ab475e5bec103d5072abb0f6d72c50f386e90.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fahmi/Playground/Application/react-native/pushnotification/android/app/build/intermediates/exploded-aar/pushnotification/react-native-fcm/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e5ac513891efcea7d9945fb73d37d9aa7b70465a">
+        <dex dex="/Users/fahmi/Playground/Application/react-native/pushnotification/android/app/build/intermediates/pre-dexed/debug/pushnotification-react-native-fcm-unspecified_8e3340dd5f16dd5d82e73b8e68b2a7f5bcffa16f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fahmi/Playground/Application/react-native/pushnotification/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/Users/fahmi/Playground/Application/react-native/pushnotification/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_34a9c0eb39bf07798117465a0588a8c136bbdc7b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fahmi/Playground/Application/react-native/pushnotification/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/fahmi/Playground/Application/react-native/pushnotification/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_8125d1a5f4808ef438e2c24aa05332c6406b7377.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fahmi/Playground/Application/react-native/pushnotification/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.53.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="b9a51262d663efadea9d0c402a5e76aace2685cb">
+        <dex dex="/Users/fahmi/Playground/Application/react-native/pushnotification/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.53.0_dbc1b6c976a02658d6febedcc8e82211e31de996.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fahmi/Playground/Application/react-native/pushnotification/android/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/Users/fahmi/Playground/Application/react-native/pushnotification/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.2.0_2c989b864e0abff12d0927bd9e18cfe602635177.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fahmi/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/fahmi/Playground/Application/react-native/pushnotification/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_7392adf134f3fb056db10573afa7aa47da332e08.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fahmi/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/fahmi/Playground/Application/react-native/pushnotification/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_d64c33fd9d959c24f27f5b44d8c4025b01038e7a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fahmi/Playground/Application/react-native/pushnotification/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/Users/fahmi/Playground/Application/react-native/pushnotification/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_6924782cb98f61a0cf9f41d0da6d37248d74892d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fahmi/Playground/Application/react-native/pushnotification/android/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/Users/fahmi/Playground/Application/react-native/pushnotification/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.2.0_5b7e9434f1c7b8bb02301c1b8c60da803655bb05.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fahmi/Playground/Application/react-native/pushnotification/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2430e711762a749feb00b3d64858ca4768251b9d">
+        <dex dex="/Users/fahmi/Playground/Application/react-native/pushnotification/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-11.0.4_39c4320ebd2f606eb918fdf3c75997a7556a2363.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fahmi/Playground/Application/react-native/pushnotification/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/fahmi/Playground/Application/react-native/pushnotification/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_352fb07c5fab89d6c685b13dc5a1286fdca1876a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fahmi/Playground/Application/react-native/pushnotification/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e1625e48a836779b5fa141d22e5d05563aaccc9a">
+        <dex dex="/Users/fahmi/Playground/Application/react-native/pushnotification/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-impl-11.0.4_fd66faa98b0ba89bee6e593fe5c65482ec7148df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fahmi/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Users/fahmi/Playground/Application/react-native/pushnotification/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_db4e6120dc17f90c9e986d5241d8c268a585187e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fahmi/Playground/Application/react-native/pushnotification/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/Users/fahmi/Playground/Application/react-native/pushnotification/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_c1fcdd87bb43de381efaf94e340a292497b58053.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fahmi/Playground/Application/react-native/pushnotification/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/Users/fahmi/Playground/Application/react-native/pushnotification/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.2.0_781653937749a23eba27c5a69ecc367f857c07ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fahmi/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/fahmi/Playground/Application/react-native/pushnotification/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_0f11e3a9381d9813dfae406ecdc29bfcf52f0000.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fahmi/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/Users/fahmi/Playground/Application/react-native/pushnotification/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_bfcafc80245644b7932c9087057808eb614d6ad0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fahmi/Playground/Application/react-native/pushnotification/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/Users/fahmi/Playground/Application/react-native/pushnotification/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_d053b6741802e890b1f13834b63b500dc5569c4f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fahmi/Playground/Application/react-native/pushnotification/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/fahmi/Playground/Application/react-native/pushnotification/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_f8584a48ec469cf2860479c2f39b57c3fe56899b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fahmi/Playground/Application/react-native/pushnotification/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f47f4d5bdfd7d7bf330945b8a7ccce4ab437a710">
+        <dex dex="/Users/fahmi/Playground/Application/react-native/pushnotification/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-messaging-11.0.4_cc0281ea2be9791e51b430605d75fa0b22b42548.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fahmi/Playground/Application/react-native/pushnotification/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e5b429c146094a612134910688d169ec08deeefb">
+        <dex dex="/Users/fahmi/Playground/Application/react-native/pushnotification/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-11.0.4_46840f5c0185713157cd674e1c5f6d0a9bf371b8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fahmi/Playground/Application/react-native/pushnotification/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ed87ccdcb70c17d71ba4e6e4ac16afa62d3c49fb">
+        <dex dex="/Users/fahmi/Playground/Application/react-native/pushnotification/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-iid-11.0.4_9c58c5f98b4bac7f4e6d129af2f781c258511487.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fahmi/Playground/Application/react-native/pushnotification/android/app/build/intermediates/exploded-aar/me.leolin/ShortcutBadger/1.1.17/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="248218f163235e6d2a81188eaa1db0ec61193055">
+        <dex dex="/Users/fahmi/Playground/Application/react-native/pushnotification/android/app/build/intermediates/pre-dexed/debug/me.leolin-ShortcutBadger-1.1.17_d1d21bdfbc98a2f395f281f80ab67a45ac9d6daa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fahmi/Playground/Application/react-native/pushnotification/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="43e9789bd3240271265ab30ce1be9f224843f5a8">
+        <dex dex="/Users/fahmi/Playground/Application/react-native/pushnotification/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-common-11.0.4_274bc4933f922cba53ba04810c88de6fc337a352.jar" />
+    </item>
+
+</items>
