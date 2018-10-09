@@ -2,5 +2,9 @@
     {
         "merged": "/Users/fahmi/Playground/Application/react-native/pushnotification/android/app/build/intermediates/res/merged/debug/xml/preferences.xml",
         "source": "/Users/fahmi/Playground/Application/react-native/pushnotification/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.53.0/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/Users/fahmi/Playground/Application/react-native/simple-react-native-push-notification/android/app/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/Users/fahmi/Playground/Application/react-native/simple-react-native-push-notification/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.53.0/res/xml/preferences.xml"
     }
 ]
