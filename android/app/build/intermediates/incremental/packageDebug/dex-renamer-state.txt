@@ -1,4 +1,4 @@
-#Wed Feb 14 17:08:26 WIB 2018
-base.0=/Users/fahmi/Playground/Application/react-native/pushnotification/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+#Thu Feb 15 15:52:08 WIB 2018
+base.0=/Users/fahmi/Playground/Application/react-native/simple-react-native-push-notification/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
 renamed.0=classes.dex
-file.0=/Users/fahmi/Playground/Application/react-native/pushnotification/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
+file.0=/Users/fahmi/Playground/Application/react-native/simple-react-native-push-notification/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

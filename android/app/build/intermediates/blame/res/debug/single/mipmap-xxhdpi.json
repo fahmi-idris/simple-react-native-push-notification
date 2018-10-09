@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/Users/fahmi/Playground/Application/react-native/simple-react-native-push-notification/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/Users/fahmi/Playground/Application/react-native/simple-react-native-push-notification/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
         "merged": "/Users/fahmi/Playground/Application/react-native/pushnotification/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
         "source": "/Users/fahmi/Playground/Application/react-native/pushnotification/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
     }

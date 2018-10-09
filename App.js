@@ -11,10 +11,28 @@ import {
   View
 } from 'react-native';
 import FCM, { FCMEvent } from "react-native-fcm";
+import Geocoder from 'react-native-geocoder';
 
 export default class App extends Component {
 
   componentDidMount(){
+    var NY = {
+      lat: -7.9275268,
+      lng: 112.6019863
+    };
+
+    Geocoder.geocodePosition(NY).then(res => {
+      console.log("Geocode position")
+      console.log(res)
+    })
+    .catch(err => console.log(err))
+
+    Geocoder.geocodeAddress('New York').then(res => {
+      console.log("Geocode address")
+      console.log(res)
+    })
+    .catch(err => console.log(err))
+
     FCM.requestPermissions()
     FCM.getInitialNotification()
     .then((notif) => {
